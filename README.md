@@ -1,4 +1,4 @@
-# Get File Orientation
+# Get Video Orientation
 
 Aplicação JS utilizando ffprobe para pegar informações do vídeo e definir se o mesmo está em ortientação Portrait (retrato) ou Landscape (paisagem)
 
